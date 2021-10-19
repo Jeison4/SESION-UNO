@@ -8,7 +8,7 @@ partes de nuetro pais, para ello se uso html, css y javascript de la siguiente m
 COMANDO USADOS html
 ~~~
 
-![titulo de pagina y cabecera](C:\Users\equipo\OneDrive\Documentos\JEISON\PROGRAMACION\SESION1\images\pantallazos)<br>
+![titulo de pagina y cabecera](https://github.com/Jeison4/SESION-UNO/blob/main/images/pantallazos/titulos%20y%20texto%20del%20cuerpojpg.jpg)<br>
 ![titulo y texto del cuerpo](C:\Users\equipo\OneDrive\Documentos\JEISON\PROGRAMACION\SESION1\images\pantallazos\principal.png)<br>
 ![particulas de imagen](C:\Users\equipo\OneDrive\Documentos\JEISON\PROGRAMACION\SESION1\images\pantallazos)<br> se insertaron unas particulas como decoracion para la imagen principal de la pagina. <br>
 ![imagenesinsertadas](C:\Users\equipo\OneDrive\Documentos\JEISON\PROGRAMACION\SESION1\images\pantallazos)<br>
