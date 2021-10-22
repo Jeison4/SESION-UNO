@@ -5,11 +5,11 @@
 }
 @font-face{
     font-family: festive;
-    src:url(/fuentes/Festive/Festive-Regular.ttf);
+    src:url(../fuentes/Festive/Festive-Regular.ttf);
 }
 header{
     width: 100%;
-    background-color: rgba(82, 98, 240, 0.9);
+    background-color: rgba(128, 140, 240, 0.9);
     height: 70px;
     position: fixed;
 }
@@ -68,7 +68,7 @@ nav ul li a:hover{
     color: violet;
 }
 #particles-js{  
-    background: url(/images/principal2.png);
+    background: url(../images/principal2.png);
     background-position:center ;
     background-attachment: contain; /* obligamos a que la imagen se mantenga dentro del margen de la pantalla*/
     background-size:cover; /* para que este al mismo tamaño de la ventana*/
@@ -108,7 +108,7 @@ h3{
     font-style: oblique;
 }
 .container-GAL{
-    background: url(/images/principal2.png);
+    background: url(../images/principal2.png);
     width: auto;
     align-content: center;
     margin: 0 auto;
